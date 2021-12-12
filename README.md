@@ -1,4 +1,4 @@
 # Pokemon App
 
-Demo: [Pokemon](https://prathu9.github.io/pokemon).
+Live: [Pokemon](https://prathu9.github.io/pokemon)
 
